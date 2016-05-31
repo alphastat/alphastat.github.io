@@ -5,24 +5,15 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
-title: 알파스탯의 통계이야기 
+# Site settings
+title: 알파스탯의 통계이야기
 email: secondmath85@gmail.com
-
+description: > # this means to ignore newlines until "baseurl:"
+  Jannik Richter, jannik811@gmail.com
+baseurl: "/jekyll-slender-template" # the subpath of your site, e.g. /blog
+url: "http://alphastat.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  alphastat
-facebook_username: secondmath85
 
-markdown: redcarpet
-redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "strikethrough", "superscript", "with_toc_data", "tables"]
-
-highlighter: pygments
-
-permalink: pretty
-
-safe: true
-lsi: true
-
-gems:
-  - jekyll-redirect-from
-  - jemoji
+# Build settings
+markdown: kramdown
