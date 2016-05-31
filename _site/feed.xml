@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>statstory by alphastat</title>
+    <title>Statblog</title>
     <description></description>
-    <link>http://alphastat.github.io/</link>
-    <atom:link href="http://alphastat.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 31 May 2016 21:17:27 +0900</pubDate>
-    <lastBuildDate>Tue, 31 May 2016 21:17:27 +0900</lastBuildDate>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 31 May 2016 21:22:28 +0900</pubDate>
+    <lastBuildDate>Tue, 31 May 2016 21:22:28 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
-        <title>Eleventh post</title>
+        <title>12th post</title>
         <description>&lt;p&gt;&lt;img src=&quot;http://placehold.it/250x150&quot; alt=&quot;picture&quot; /&gt;
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices porta ultrices. Nulla gravida commodo aliquet. Quisque tincidunt enim quis odio vestibulum, et luctus ipsum lacinia. Cras malesuada sit amet erat vitae porttitor. Duis vitae mollis eros. Vestibulum eget tortor sodales, ullamcorper odio ac, tincidunt felis. Nunc interdum, mauris vitae ornare bibendum, risus libero aliquam ex, cursus feugiat mi libero in nulla. Nullam vel pulvinar ante. Vivamus vitae est aliquet, porttitor eros ut, facilisis erat. Sed malesuada nibh odio, at egestas libero commodo vitae. Integer laoreet lorem ac iaculis fermentum.
 Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. &lt;!-- more --&gt;
@@ -22,9 +22,9 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
-        <pubDate>Thu, 11 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/technology/2016/02/11/12th.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/technology/2016/02/11/12th.html</guid>
+        <pubDate>Tue, 31 May 2016 00:00:00 +0900</pubDate>
+        <link>/technology/2016/05/31/12th.html</link>
+        <guid isPermaLink="true">/technology/2016/05/31/12th.html</guid>
         
         <category>css</category>
         
@@ -49,8 +49,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Thu, 11 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/technology/2016/02/11/eleventh.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/technology/2016/02/11/eleventh.html</guid>
+        <link>/technology/2016/02/11/eleventh.html</link>
+        <guid isPermaLink="true">/technology/2016/02/11/eleventh.html</guid>
         
         <category>css</category>
         
@@ -75,8 +75,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/technology/2016/02/09/tenth.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/technology/2016/02/09/tenth.html</guid>
+        <link>/technology/2016/02/09/tenth.html</link>
+        <guid isPermaLink="true">/technology/2016/02/09/tenth.html</guid>
         
         <category>css</category>
         
@@ -101,8 +101,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Tue, 09 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/technology/2016/02/09/nineth.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/technology/2016/02/09/nineth.html</guid>
+        <link>/technology/2016/02/09/nineth.html</link>
+        <guid isPermaLink="true">/technology/2016/02/09/nineth.html</guid>
         
         <category>journey</category>
         
@@ -127,8 +127,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Mon, 08 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/eight-post</link>
-        <guid isPermaLink="true">http://alphastat.github.io/eight-post</guid>
+        <link>/eight-post</link>
+        <guid isPermaLink="true">/eight-post</guid>
         
         <category>html</category>
         
@@ -153,8 +153,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Sun, 07 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/technology/2016/02/07/seventh.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/technology/2016/02/07/seventh.html</guid>
+        <link>/technology/2016/02/07/seventh.html</link>
+        <guid isPermaLink="true">/technology/2016/02/07/seventh.html</guid>
         
         <category>octopress</category>
         
@@ -179,8 +179,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Sat, 06 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/education/writing/2016/02/06/sixth-post.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/education/writing/2016/02/06/sixth-post.html</guid>
+        <link>/education/writing/2016/02/06/sixth-post.html</link>
+        <guid isPermaLink="true">/education/writing/2016/02/06/sixth-post.html</guid>
         
         
         <category>education</category>
@@ -203,8 +203,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Fri, 05 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/technology/2016/02/05/fifth.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/technology/2016/02/05/fifth.html</guid>
+        <link>/technology/2016/02/05/fifth.html</link>
+        <guid isPermaLink="true">/technology/2016/02/05/fifth.html</guid>
         
         <category>holiday</category>
         
@@ -229,8 +229,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Thu, 04 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/jekyll/technology/2016/02/04/fourth-post.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/jekyll/technology/2016/02/04/fourth-post.html</guid>
+        <link>/jekyll/technology/2016/02/04/fourth-post.html</link>
+        <guid isPermaLink="true">/jekyll/technology/2016/02/04/fourth-post.html</guid>
         
         <category>css</category>
         
@@ -255,8 +255,8 @@ Sed orci est, pellentesque sit amet volutpat a, tristique in leo. Ut at euismod 
 &lt;p&gt;Pellentesque quis hendrerit leo. Pellentesque tristique sem vitae pretium posuere. Vivamus euismod eu tellus nec porttitor. Sed vel est sem. Nullam pellentesque arcu in justo molestie maximus. Integer augue nibh, ultrices eget aliquam eget, rhoncus at est. Phasellus molestie, ante ut tempor dignissim, nisl nisl congue enim, id hendrerit dolor lorem ut ante.&lt;/p&gt;
 </description>
         <pubDate>Wed, 03 Feb 2016 00:00:00 +0900</pubDate>
-        <link>http://alphastat.github.io/science/2016/02/03/third-post.html</link>
-        <guid isPermaLink="true">http://alphastat.github.io/science/2016/02/03/third-post.html</guid>
+        <link>/science/2016/02/03/third-post.html</link>
+        <guid isPermaLink="true">/science/2016/02/03/third-post.html</guid>
         
         
         <category>science</category>
