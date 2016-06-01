@@ -6,7 +6,7 @@ category: technology
 tags: [css, html]
 
 # Author.
-author: Jinseob Kim
+author: 김진섭
 ---
-![picture](http://placehold.it/250x150)
+![picture](https://github.com/alphastat/alphastat.github.io/blob/master/img/search.png)
 처음 쓰는 글이다.
